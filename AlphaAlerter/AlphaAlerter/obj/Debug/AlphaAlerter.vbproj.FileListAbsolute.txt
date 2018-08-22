@@ -1,0 +1,12 @@
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\bin\Debug\AlphaAlerter.exe.config
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\bin\Debug\AlphaAlerter.exe
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\bin\Debug\AlphaAlerter.pdb
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\bin\Debug\AlphaAlerter.xml
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\obj\Debug\AlphaAlerter.vbprojResolveAssemblyReference.cache
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\obj\Debug\AlphaAlerter.Form1.resources
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\obj\Debug\AlphaAlerter.Resources.resources
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\obj\Debug\AlphaAlerter.vbproj.GenerateResource.cache
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\obj\Debug\AlphaAlerter.vbproj.CoreCompileInputs.cache
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\obj\Debug\AlphaAlerter.exe
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\obj\Debug\AlphaAlerter.xml
+C:\Users\stanlwon\source\repos\AlphaAlerter\AlphaAlerter\obj\Debug\AlphaAlerter.pdb
